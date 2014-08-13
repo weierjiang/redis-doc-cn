@@ -1,4 +1,4 @@
 redis-doc-cn
 ============
 
-中文版本的redis文档
+中文版本redis文档
